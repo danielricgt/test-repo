@@ -1,0 +1,1 @@
+// El comando para reconstruir lo que estaba en el ultimo commit es: git checkout -- .
